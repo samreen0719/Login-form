@@ -22,4 +22,38 @@ The form includes username and password fields, a "Remember me" checkbox, and a 
 ## 🚀 How to Use
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/login-form.git
+   git clone https://github.com/samreen0719/Login-form.git
+
+   ---
+
+## Technologies Used
+
+HTML5 – Structure of the form.
+
+CSS3 – Styling with glassmorphism effects.
+
+JavaScript – Password visibility toggle.
+
+Remix Icon – For input and eye icons.
+
+--
+
+## Responsive Design
+
+Adapts to different screen sizes:
+
+Desktop 💻
+
+Tablet 📒
+
+Mobile 📱
+
+--
+
+## Future Improvements
+
+Add a Sign Up page.
+
+Connect to a backend (Flask, Node.js, or Firebase) for real authentication.
+
+Add form validation for username & password.
